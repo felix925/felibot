@@ -1,0 +1,2 @@
+web: java -server -jar ./build/libs/felibot-0.0.1.jar
+
